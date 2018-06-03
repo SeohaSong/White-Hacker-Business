@@ -38,3 +38,8 @@ find 'SystemBiosVersion' right click and modify 
 change 'VBOX -1' to 'NOBOX -1'
 click ok and exit registry edit
 ```
+
+## 매크로 탐지 기술
+
+### 문제상황
+![](./img/1.png)
